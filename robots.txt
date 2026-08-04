@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+
+Sitemap: https://vigilanjjjjjjjjjjjjj.github.io/https-github.com-owner-repomclarenmoneytization/sitemap.xml
